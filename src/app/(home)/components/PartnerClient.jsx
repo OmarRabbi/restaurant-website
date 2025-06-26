@@ -39,7 +39,7 @@ function PartnerClient() {
   const duplicatedIndustries = [...industries, ...industries];
 
   return (
-    <div className="container">
+    <div className="container pt-40 pb-20">
       <div className="flex flex-col items-center justify-center">
         <p className='text-lg text-[#A52A2A] leading-[26px]'>Partners & Clients</p>
         <h1 className='text-[48px] text-[#333333] leading-[56px] text-bold'>We work with the best people</h1>
